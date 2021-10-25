@@ -1,0 +1,17 @@
+body {
+    background: #9dc4fb;
+    padding: 5rem 0rem;
+    font-family: "Poppins", sans-serif;
+}
+.container-div {
+    background: #02044a;
+    max-width: 50rem;
+    height: 50vh;
+    color: black;
+    border-radius: 0.5rem;
+}
+.container-form {
+    max-width: 30rem;
+    background: white;
+    border-radius: 0.5rem;
+}
